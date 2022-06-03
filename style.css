@@ -3,4 +3,8 @@ h1{
 }
 div{
     font-size: 20px;
+    background-color: brown;
+}
+body{
+    background-color: aqua;
 }
